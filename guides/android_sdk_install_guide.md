@@ -20,7 +20,7 @@ If you have any questions or suggestions, feel free to contact me through my Git
 ## Command line tools
 
 - Go to [android sdk download
-  page](https://developer.android.com/studio#downloads)
+  page](https://developer.android.com/studio#command-line-tools-only)
 - Look for "Command line tools only"
 - Download the commandline tools for your operating system
 
