@@ -22,7 +22,7 @@ Se você tiver alguma dúvida ou sugestão, não hesite em me contatar através 
 ## Ferramentas de linha de comando
 
 - Abra a [página de download do android
-  sdk](https://developer.android.com/studio#command-line-tools-only)
+  sdk](https://developer.android.com/studio?hl=pt-br#somente-ferramentas-de-linha-de-comando)
 - Pesquise por "Command line tools only"
 - Faça o download do pacote de ferramentas para o seu sistema
   operacional
